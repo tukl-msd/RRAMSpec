@@ -1,0 +1,3 @@
+-tech techs/test_tech.json
+-arch archs/test_arch.json
+-cell cells/test_cell.json

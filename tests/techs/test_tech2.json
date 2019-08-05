@@ -1,0 +1,32 @@
+{
+
+    "Technology node [nm]": 20,
+
+    "Vcc [V]": 0.8,
+
+    "Metal half pitch [nm]": 40,
+    "Metal thickness [nm]": 100,
+
+    "Metal resistivity [Ohm m]": 10e-8,
+    "Metal sheet resistance [Ohm]": 1,
+
+    "Metal capacitance per length [aF/nm]": 0.2,
+
+    "Substrate relative permittivity []": 5,
+
+    "MOS breakdown voltage [V]": 5,
+
+    "Minimum PMOS channel length [nm]": 400,
+    "Minimum PMOS channel width [nm]": 320,
+    "Minimum NMOS channel length [nm]": 500,
+    "Minimum NMOS channel width [nm]": 320,
+
+    "Minimum length PMOS resistance-width product [kohm_nm]": 5000,
+    "Minimum length NMOS resistance-width product [kohm_nm]": 2600,
+
+    "Gate extension of active layer [nm]": 120,
+    "Poly to poly spacing [nm]": 120,
+    "Active layer extension of poly [nm]": 90,
+    "Active to active spacing [nm]": 120
+
+}

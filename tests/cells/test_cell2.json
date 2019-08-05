@@ -1,0 +1,23 @@
+{
+
+    "Memory device HRS resistance [Ohm]": 600000,
+    "Memory device LRS resistance [Ohm]": 61224,
+
+    "Selector model []": "semiIdeal",
+
+    "Selector snap voltage [V]": 1,
+    "Selector leakage current [nA]": 10,
+    "Selector maximum current [nA]": 50e3,
+
+    "Cell set compliance current [nA]": 30000,
+    "Cell set time C [ns]": 1e20,
+    "Cell set time K [V^-1]": 20,
+
+    "Cell reset time C [ns]": 1e20,
+    "Cell reset time K [V^-1]": 20,
+
+    "LRS/HRS read current ratio []": 7.5,
+
+    "Cell thickness [nm]": 50
+
+}

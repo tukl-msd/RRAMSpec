@@ -1,0 +1,10 @@
+{
+
+    "Optimization mode []": "performance",
+
+    "Bank capacity [Gb]": 1,
+    "Data bus width [bits]": 4,
+    "Prefetch []": 1
+
+
+}

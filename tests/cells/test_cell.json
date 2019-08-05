@@ -1,0 +1,55 @@
+{
+
+    "Memory device HRS resistance [Ohm]": 600000,
+    "Memory device LRS resistance [Ohm]": 61224,
+
+    "Selector model []": "IxV",
+
+    "Selector voltage point 0 [V]": 0.0,
+    "Selector voltage point 1 [V]": 0.10,
+    "Selector voltage point 2 [V]": 1.60,
+    "Selector voltage point 3 [V]": 2.00,
+    "Selector voltage point 4 [V]": 2.25,
+    "Selector voltage point 5 [V]": 2.50,
+    "Selector voltage point 6 [V]": 2.75,
+    "Selector voltage point 7 [V]": 3.00,
+    "Selector voltage point 8 [V]": 3.10,
+    "Selector voltage point 9 [V]": 3.12,
+    "Selector voltage point 10 [V]": 3.14,
+    "Selector voltage point 11 [V]": 3.16,
+    "Selector voltage point 12 [V]": 3.18,
+    "Selector voltage point 13 [V]": 3.20,
+    "Selector voltage point 14 [V]": 4.00,
+    "Selector voltage point 15 [V]": 4.50,
+    "Selector voltage point 16 [V]": 6.00,
+
+    "Selector current point 0 [nA]": 0.0,
+    "Selector current point 1 [nA]": 0.120,
+    "Selector current point 2 [nA]": 0.120,
+    "Selector current point 3 [nA]": 3.200,
+    "Selector current point 4 [nA]": 8.000,
+    "Selector current point 5 [nA]": 12.00,
+    "Selector current point 6 [nA]": 16.00,
+    "Selector current point 7 [nA]": 40.00,
+    "Selector current point 8 [nA]": 120.0,
+    "Selector current point 9 [nA]": 360.0,
+    "Selector current point 10 [nA]": 1.2e3,
+    "Selector current point 11 [nA]": 3.2e3,
+    "Selector current point 12 [nA]": 8.0e3,
+    "Selector current point 13 [nA]": 28e3,
+    "Selector current point 14 [nA]": 34e3,
+    "Selector current point 15 [nA]": 36e3,
+    "Selector current point 16 [nA]": 40e3,
+
+    "Cell set compliance current [nA]": 10000,
+    "Cell set time C [ns]": 1.107e33,
+    "Cell set time K [V^-1]": 16.5,
+
+    "Cell reset time C [ns]": 8.4e32,
+    "Cell reset time K [V^-1]": 17.5,
+
+    "LRS/HRS read current ratio []": 7.5,
+
+    "Cell thickness [nm]": 50
+
+}

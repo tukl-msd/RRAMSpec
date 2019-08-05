@@ -1,0 +1,11 @@
+{
+
+    "Mandatory numeric member": 2,
+    "Mandatory by reasons numeric member": 3,
+    "Optional numeric member": 4,
+
+    "Mandatory text member": "5",
+    "Mandatory by reasons text member": "6",
+    "Optional text member": "7"
+
+}

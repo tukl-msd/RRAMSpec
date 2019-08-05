@@ -1,0 +1,12 @@
+*.o
+.directory
+dctg
+results/
+build/
+*.pro.user*
+quickTests/
+Makefile
+*.autosave
+.qmake.stash
+rramspec_*plugin_import.cpp
+reram2rram.sh
