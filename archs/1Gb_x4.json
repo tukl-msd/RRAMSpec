@@ -1,0 +1,12 @@
+{
+
+    "Optimization mode []": "fixed",
+    "Number of array columns []":1024,
+    "Number of array rows []": 1024,
+
+    "Bank capacity [Gb]": 1,
+    "Data bus width [bits]": 4,
+    "Prefetch []": 8
+
+
+}
